@@ -20,7 +20,7 @@
 <h3 align='center'>
   📕 Latest Blog posts
 </h3>
----
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/2020-09-01-compressing-congruence-automata/)
