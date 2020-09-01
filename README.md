@@ -23,6 +23,10 @@
   📕 Latest Blog posts
 </h1>
 <!-- BLOG-POST-LIST:START -->
+- [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/2020-09-01-compressing-congruence-automata/)
+- [Numbers in congruence classes are regular languages](https://zerobone.net/blog/cs/2020-08-29-numbers-are-regular-languages/)
+- [Extended Euclidean algorithm without stack or recursion](https://zerobone.net/blog/cs/2020-02-21-non-recursive-extended-euklidian-algorithm/)
+- [Call Stack - buffer overflow vulnerability](https://zerobone.net/blog/cs/2019-06-30-call-stack-buffer-overflow/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
