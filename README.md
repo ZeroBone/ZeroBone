@@ -2,7 +2,6 @@
   Welcome 👋
 </h1>
 
-
 <p align='center'>
   A backend developer and computer science student.
 </p>
@@ -18,10 +17,11 @@
   </a>&nbsp;&nbsp;
 </p>
 
-
 <h3 align='center'>
   📕 Latest Blog posts
 </h3>
+---
+
 <!-- BLOG-POST-LIST:START -->
 - [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/2020-09-01-compressing-congruence-automata/)
 - [Numbers in congruence classes are regular languages](https://zerobone.net/blog/cs/2020-08-29-numbers-are-regular-languages/)
@@ -29,6 +29,4 @@
 - [Call Stack - buffer overflow vulnerability](https://zerobone.net/blog/cs/2019-06-30-call-stack-buffer-overflow/)
 <!-- BLOG-POST-LIST:END -->
 
-
 💬 [More blog posts](https://zerobone.net/blog/)
-
