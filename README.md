@@ -23,6 +23,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Kadane’s algorithm and the idea behind it](https://zerobone.net/blog/cs/2020-09-19-kadane-algorithm/)
 - [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/2020-09-01-compressing-congruence-automata/)
 - [Numbers in congruence classes are regular languages](https://zerobone.net/blog/cs/2020-08-29-numbers-are-regular-languages/)
 - [Extended Euclidean algorithm without stack or recursion](https://zerobone.net/blog/cs/2020-02-21-non-recursive-extended-euklidian-algorithm/)
