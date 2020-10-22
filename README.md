@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring the size of a regular language is NP-Hard](https://zerobone.net/blog/cs/2020-10-15-regular-language-size-np-hard/)
-- [Computing the lowest common ancestor in a full binary tree](https://zerobone.net/blog/cs/2020-09-23-lowest-common-ancestor/)
-- [Kadane’s algorithm and the idea behind it](https://zerobone.net/blog/cs/2020-09-19-kadane-algorithm/)
-- [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/2020-09-01-compressing-congruence-automata/)
-- [Numbers in congruence classes are regular languages](https://zerobone.net/blog/cs/2020-08-29-numbers-are-regular-languages/)
+- [Measuring the size of a regular language is NP-Hard](https://zerobone.net/blog/cs/regular-language-size-np-hard/)
+- [Computing the lowest common ancestor in a full binary tree](https://zerobone.net/blog/cs/lowest-common-ancestor/)
+- [Kadane’s algorithm and the idea behind it](https://zerobone.net/blog/cs/kadane-algorithm/)
+- [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/compressing-congruence-automata/)
+- [Numbers in congruence classes are regular languages](https://zerobone.net/blog/cs/numbers-are-regular-languages/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
