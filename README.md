@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing 3D linear transformations and Gaussian elimination with Python and Manim](https://zerobone.net/blog/cs/linear-transformations-3d-manim/)
 - [Using the PA=LU factorization to solve linear systems of equations for many right-hand sides efficiently](https://zerobone.net/blog/cs/pa-lu-factorization/)
 - [Measuring the size of a regular language is NP-Hard](https://zerobone.net/blog/cs/regular-language-size-np-hard/)
 - [Computing the lowest common ancestor in a full binary tree](https://zerobone.net/blog/cs/lowest-common-ancestor/)
 - [Kadane’s algorithm and the idea behind it](https://zerobone.net/blog/cs/kadane-algorithm/)
-- [Efficient compression of congruence class automations](https://zerobone.net/blog/cs/compressing-congruence-automata/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
