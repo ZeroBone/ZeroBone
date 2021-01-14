@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Compressing images with singular value decomposition (SVD)](https://zerobone.net/blog/cs/svd-image-compression/)
 - [Gray codes and their beautiful symmetries](https://zerobone.net/blog/cs/gray-codes/)
 - [Knuth-Morris-Pratt (KMP) algorithm explained](https://zerobone.net/blog/cs/knuth-morris-pratt/)
 - [Visualizing 3D linear transformations and Gaussian elimination with Python and Manim](https://zerobone.net/blog/cs/linear-transformations-3d-manim/)
 - [Using the PA=LU factorization to solve linear systems of equations for many right-hand sides efficiently](https://zerobone.net/blog/cs/pa-lu-factorization/)
-- [Measuring the size of a regular language is NP-Hard](https://zerobone.net/blog/cs/regular-language-size-np-hard/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
