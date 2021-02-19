@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing and visualizing the Gram-Schmidt process](https://zerobone.net/blog/cs/gram-schmidt-process/)
 - [How propositional logic minimization and gray codes are connected](https://zerobone.net/blog/cs/logic-minimization-gray-codes/)
 - [The Dining Philosophers problem and different ways of solving it](https://zerobone.net/blog/cs/dining-philosophers-problem/)
 - [Compressing images with singular value decomposition (SVD)](https://zerobone.net/blog/cs/svd-image-compression/)
 - [Gray codes and their beautiful symmetries](https://zerobone.net/blog/cs/gray-codes/)
-- [Knuth-Morris-Pratt (KMP) algorithm explained](https://zerobone.net/blog/cs/knuth-morris-pratt/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
