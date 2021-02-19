@@ -23,7 +23,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing and visualizing the Gram-Schmidt process](https://zerobone.net/blog/cs/gram-schmidt-process/)
+- [Implementing and visualizing Gram-Schmidt orthogonalization](https://zerobone.net/blog/cs/gram-schmidt-process/)
 - [How propositional logic minimization and gray codes are connected](https://zerobone.net/blog/cs/logic-minimization-gray-codes/)
 - [The Dining Philosophers problem and different ways of solving it](https://zerobone.net/blog/cs/dining-philosophers-problem/)
 - [Compressing images with singular value decomposition (SVD)](https://zerobone.net/blog/cs/svd-image-compression/)
