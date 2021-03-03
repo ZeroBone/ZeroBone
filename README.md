@@ -23,7 +23,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Satisfiability of both Horn and 2-SAT clauses is NP-Complete](https://zerobone.net/blog/cs/hornsat-2sat-np-complete/)
+- [Satisfiability of formulas with both Horn and 2-SAT clauses is NP-Complete](https://zerobone.net/blog/cs/hornsat-2sat-np-complete/)
 - [Implementing and visualizing Gram-Schmidt orthogonalization](https://zerobone.net/blog/cs/gram-schmidt-orthogonalization/)
 - [How propositional logic minimization and gray codes are connected](https://zerobone.net/blog/cs/logic-minimization-gray-codes/)
 - [The Dining Philosophers problem and different ways of solving it](https://zerobone.net/blog/cs/dining-philosophers-problem/)
