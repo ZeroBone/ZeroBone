@@ -23,7 +23,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient algorithm for finding non-productive rules in context free grammars](https://zerobone.net/blog/cs/non-productive-cfg-rules/)
+- [Efficient algorithm for finding non-productive rules in context-free grammars](https://zerobone.net/blog/cs/non-productive-cfg-rules/)
 - [Constructing Hilbert-style F0 proofs with a simple graph-based notation](https://zerobone.net/blog/cs/hilbert-frege-f0-proofs/)
 - [Satisfiability of formulas with both Horn and 2-SAT clauses is NP-Complete](https://zerobone.net/blog/cs/hornsat-2sat-np-complete/)
 - [Implementing and visualizing Gram-Schmidt orthogonalization](https://zerobone.net/blog/cs/gram-schmidt-orthogonalization/)
