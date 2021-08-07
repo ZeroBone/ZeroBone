@@ -23,11 +23,11 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Finding an injective mapping with restrictions for values is NP-Complete](https://zerobone.net/blog/cs/restricted-injective-mapping-np-complete/)
 - [Efficient algorithm for finding non-productive rules in context-free grammars](https://zerobone.net/blog/cs/non-productive-cfg-rules/)
 - [Constructing Hilbert-style F0 proofs with a simple graph-based notation](https://zerobone.net/blog/cs/hilbert-frege-f0-proofs/)
 - [Satisfiability of formulas with both Horn and 2-SAT clauses is NP-Complete](https://zerobone.net/blog/cs/hornsat-2sat-np-complete/)
 - [Implementing and visualizing Gram-Schmidt orthogonalization](https://zerobone.net/blog/cs/gram-schmidt-orthogonalization/)
-- [How propositional logic minimization and gray codes are connected](https://zerobone.net/blog/cs/logic-minimization-gray-codes/)
 <!-- BLOG-POST-LIST:END -->
 
 💬 [More blog posts](https://zerobone.net/blog/)
