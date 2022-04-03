@@ -23,7 +23,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualization &amp;amp; detailed description of the interactive protocol for TQBF yielding IP = PSPACE](https://zerobone.net/blog/cs/ip-pspace/)
+- [Visualization and detailed description of the interactive protocol for TQBF yielding IP = PSPACE](https://zerobone.net/blog/cs/ip-pspace/)
 - [Finding an injective mapping with restrictions for values is NP-Complete](https://zerobone.net/blog/cs/restricted-injective-mapping-np-complete/)
 - [Efficient algorithm for finding non-productive rules in context-free grammars](https://zerobone.net/blog/cs/non-productive-cfg-rules/)
 - [Constructing Hilbert-style F0 proofs with a simple graph-based notation](https://zerobone.net/blog/cs/hilbert-frege-f0-proofs/)
