@@ -3,14 +3,11 @@
 </h1>
 
 <p align='center'>
-  Backend developer and computer science student.
+  I am a computer science student and researcher.
 </p>
 <p align='center'>
   <a href="https://zerobone.net">
     <img src="https://img.shields.io/badge/Website-ZeroBone.net-%2302A2EC.svg?&style=for-the-badge&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zerobone/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:zb@zerobone.net">
     <img src="https://img.shields.io/badge/mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
